@@ -1,0 +1,32 @@
+# Archivos de compilación
+*.o
+*.out
+*.obj
+*.elf
+*.a
+*.so
+*.exe
+
+# Archivos de depuración
+*.dSYM/
+*.stackdump
+core
+*.core
+
+# Archivos de editores
+*.swp
+*~
+.vscode/
+.idea/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.bak
+
