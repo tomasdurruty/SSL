@@ -1,0 +1,22 @@
+# Archivos de compilación
+*.o
+*.out
+*.obj
+*.exe
+
+# Archivos temporales de editores
+*~
+*.swp
+.DS_Store
+
+# Archivos de depuración
+*.log
+*.bak
+
+# Archivos generados
+a.out
+
+# Carpetas comunes de builds
+/build/
+/bin/
+/dist/
