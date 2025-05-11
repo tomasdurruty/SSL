@@ -35,4 +35,20 @@
 
 ---
 
+## 🧰 Compilador utilizado
+
+| 🛠️ **Compilador**        | GCC (GNU Compiler Collection)                   |
+| 🔢 **Versión del compilador** | 14.2.0                                          |
+| 📜 **Versión del lenguaje C** | C23 (también conocido como C2x)                |
+
+### 📝 Descripción:
+
+1. **Compilador**: Se utilizó **GCC** (GNU Compiler Collection), ampliamente usado para compilar programas en C.
+2. **Versión de GCC**: La versión de GCC instalada es **14.2.0**.
+3. **Versión de C**: El compilador está configurado para compilar programas utilizando el estándar **C23**, también conocido como **C2x**, que es la versión más reciente del lenguaje C.
+
+---
+
+
+
 📎 *Este archivo forma parte de la estructura obligatoria de entrega del trabajo práctico.*
