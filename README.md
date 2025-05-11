@@ -1,6 +1,6 @@
 # 📘 Sintaxis y Semántica de los Lenguajes
 
-¡Bienvenido/a! Este repositorio contiene las resoluciones de los **trabajos individuales** realizados durante la cursada de la materia.
+Este repositorio contiene las resoluciones de los **trabajos individuales** realizados durante la cursada de la materia.
 
 ---
 
