@@ -1,7 +1,7 @@
-# 🧠 Trabajo Práctico 01: *Introducción a la Sintaxis*
+# 🧠 Trabajo Práctico 01: *HELLO WORLD EN C*
 
 📘 **Materia:** Sintaxis y Semántica de los Lenguajes  
-📅 **Año de cursada:** 2025 - Primer Cuatrimestre
+📅 **Año de cursada:** 2025  
 
 ---
 
